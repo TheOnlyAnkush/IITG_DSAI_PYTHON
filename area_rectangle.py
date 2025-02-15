@@ -1,4 +1,4 @@
-# define the dimensions of rectangle
+# define the dimensions of rectangle.
 length = 5
 width = 3
 
