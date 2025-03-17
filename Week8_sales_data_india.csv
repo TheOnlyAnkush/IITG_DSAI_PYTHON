@@ -1,0 +1,21 @@
+OrderID,Product,Category,Quantity,PricePerUnit,TotalPrice,Date,CustomerID,City
+1001,Laptop,Electronics,1,60000,60000,2024-01-01,C001,Mumbai
+1002,Smartphone,Electronics,2,20000,40000,2024-01-02,C002,Delhi
+1003,Jeans,Clothing,3,1500,4500,2024-01-03,C003,Bengaluru
+1004,LED TV,Electronics,1,45000,45000,2024-01-04,C004,Hyderabad
+1005,Kurta,Clothing,4,800,3200,2024-01-05,C005,Chennai
+1006,Washing Machine,Appliances,1,25000,25000,2024-01-06,C006,Kolkata
+1007,Mixer Grinder,Appliances,2,3000,6000,2024-01-07,C007,Pune
+1008,Sports Shoes,Footwear,2,4000,8000,2024-01-08,C008,Ahmedabad
+1009,Microwave,Appliances,1,10000,10000,2024-01-09,C009,Jaipur
+1010,Earphones,Electronics,3,1500,4500,2024-01-10,C010,Lucknow
+1011,Refrigerator,Appliances,1,55000,55000,2024-01-11,C011,Surat
+1012,Sandals,Footwear,2,1200,2400,2024-01-12,C012,Nagpur
+1013,Tablet,Electronics,2,25000,50000,2024-01-13,C001,Indore
+1014,Hoodie,Clothing,1,2000,2000,2024-01-14,C002,Bhopal
+1015,Air Fryer,Appliances,2,7000,14000,2024-01-15,C003,Vadodara
+1016,Chappal,Footwear,1,500,500,2024-01-16,C004,Ludhiana
+1017,Smartwatch,Electronics,2,7000,14000,2024-01-17,C005,Patna
+1018,Saree,Clothing,3,2500,7500,2024-01-18,C006,Kanpur
+1019,Jacket,Clothing,1,3500,3500,2024-01-19,C007,Kochi
+1020,Toaster,Appliances,2,2000,4000,2024-01-20,C008,Nashik

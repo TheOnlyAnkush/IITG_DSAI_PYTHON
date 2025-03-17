@@ -1,0 +1,22 @@
+Summary Report
+==================================================
+Number of TXT files: 1
+Sample file: summary.txt
+--------------------------------------------------
+Number of CSV files: 0
+Sample file: N/A
+--------------------------------------------------
+Number of JSON files: 0
+Sample file: N/A
+--------------------------------------------------
+Number of JPG files: 0
+Sample file: N/A
+--------------------------------------------------
+Number of PNG files: 0
+Sample file: N/A
+--------------------------------------------------
+Number of LOG files: 0
+Sample file: N/A
+--------------------------------------------------
+Total number of files moved: 1
+==================================================
